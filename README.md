@@ -71,5 +71,6 @@ private void btn1_Click(object sender, EventArgs e)
 每個按鈕會播放不同音階的聲音。
 調整視窗大小時，按鈕會隨著畫面大小一起縮放。
 
+![image_alt](https://github.com/1hsiang/1131503_BeepPlayer/blob/9d4d59b2514c0ba650b75140838236fc3cbed9f3/%E5%9F%B7%E8%A1%8C%E6%88%AA%E5%9C%96.png)
 
 
